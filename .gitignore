@@ -1,0 +1,5 @@
+# Node dependencies - DO NOT track this folder
+node_modules/
+
+# Clasp credentials - DO NOT track this file
+.clasp.json
