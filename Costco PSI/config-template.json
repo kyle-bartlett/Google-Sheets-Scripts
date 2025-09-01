@@ -1,0 +1,42 @@
+{
+  "TARGET_SHEET_NAME": "Weekly Summary",
+  "SOURCE_SHEETS": [
+    {
+      "name": "Sales Data",
+      "ranges": [
+        {
+          "source": "A1:D10",
+          "target": "B2:E11",
+          "description": "Weekly sales figures"
+        },
+        {
+          "source": "F1:H15",
+          "target": "G2:I16",
+          "description": "Product performance"
+        }
+      ]
+    },
+    {
+      "name": "Inventory Data",
+      "ranges": [
+        {
+          "source": "A1:C20",
+          "target": "K2:M21",
+          "description": "Stock levels"
+        }
+      ]
+    },
+    {
+      "name": "Customer Data",
+      "ranges": [
+        {
+          "source": "B1:E25",
+          "target": "O2:R26",
+          "description": "Customer metrics"
+        }
+      ]
+    }
+  ],
+  "DATE_FORMAT": "MM/dd/yyyy",
+  "ENABLE_LOGGING": true
+}

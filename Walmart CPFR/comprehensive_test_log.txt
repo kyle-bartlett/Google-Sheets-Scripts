@@ -1,0 +1,47 @@
+2025-08-20 20:08:26,245 - INFO - 🚀 STARTING COMPREHENSIVE TEST SUITE
+2025-08-20 20:08:26,245 - INFO - ============================================================
+2025-08-20 20:08:27,900 - INFO - ✅ WebDriver initialized successfully
+2025-08-20 20:08:27,901 - INFO - 🌐 Testing access to Marathon Page...
+2025-08-20 20:08:32,167 - INFO - ✅ Marathon Page loaded successfully
+2025-08-20 20:08:32,170 - INFO -    📄 Title: Best of Marathon 2025 - Florida Keys Weekly Newspapers
+2025-08-20 20:08:32,170 - INFO - 🔐 Testing login process...
+2025-08-20 20:08:52,295 - WARNING - ⚠️ Could not find 'Sign in' button
+2025-08-20 20:08:52,296 - INFO - 📜 Testing page navigation and scrolling...
+2025-08-20 20:08:53,335 - INFO - ✅ Scroll 1 successful - moved from 0px to 721px
+2025-08-20 20:08:54,355 - INFO - ✅ Scroll 2 successful - moved from 721px to 1442px
+2025-08-20 20:08:55,389 - INFO - ✅ Scroll 3 successful - moved from 1442px to 1889px
+2025-08-20 20:08:55,390 - INFO - 🔍 Testing element detection capabilities...
+2025-08-20 20:08:55,401 - INFO - ✅ Found 4 forms on page
+2025-08-20 20:08:55,410 - INFO - ✅ Found 4 text input fields
+2025-08-20 20:08:55,421 - INFO - ✅ Found 0 buttons and 1 submit inputs
+2025-08-20 20:08:55,433 - INFO - ℹ️ No elements found for 'Realtor' (expected if voting not open)
+2025-08-20 20:08:55,443 - INFO - ℹ️ No elements found for 'Real Estate office' (expected if voting not open)
+2025-08-20 20:08:55,451 - INFO - ℹ️ No elements found for 'Vacation Rental Company' (expected if voting not open)
+2025-08-20 20:08:55,460 - INFO - ℹ️ No elements found for 'Best Business' (expected if voting not open)
+2025-08-20 20:08:55,460 - INFO - 📊 Element detection summary: 4 forms, 4 inputs, 0 categories
+2025-08-20 20:08:55,460 - INFO - 🎯 Testing page state detection...
+2025-08-20 20:08:55,479 - INFO - 📊 State indicators found:
+2025-08-20 20:08:55,479 - INFO -    🗳️ Voting indicators: 3
+2025-08-20 20:08:55,479 - INFO -    🏆 Results indicators: 2
+2025-08-20 20:08:55,479 - INFO -    🚫 Closed indicators: 2
+2025-08-20 20:08:55,479 - INFO - ✅ Detected page state: CLOSED
+2025-08-20 20:08:55,479 - INFO - 👀 Browser will stay open for 10 seconds so you can see the page...
+2025-08-20 20:09:05,591 - INFO - 🔚 Browser closed
+2025-08-20 20:09:05,591 - INFO - 
+============================================================
+2025-08-20 20:09:05,591 - INFO - 📊 COMPREHENSIVE TEST SUMMARY
+2025-08-20 20:09:05,591 - INFO - ============================================================
+2025-08-20 20:09:05,591 - INFO - 🎯 Overall Score: 5/6 tests passed
+2025-08-20 20:09:05,591 - INFO -    ✅ PASS - Webdriver Setup
+2025-08-20 20:09:05,591 - INFO -    ✅ PASS - Marathon Page Access
+2025-08-20 20:09:05,591 - INFO -    ❌ FAIL - Login Process
+2025-08-20 20:09:05,591 - INFO -    ✅ PASS - Page Navigation
+2025-08-20 20:09:05,591 - INFO -    ✅ PASS - Element Detection
+2025-08-20 20:09:05,591 - INFO -    ✅ PASS - Page State Detection
+2025-08-20 20:09:05,591 - INFO - 
+🎯 Marathon Page State: CLOSED
+2025-08-20 20:09:05,592 - INFO - 
+🎯 RECOMMENDATIONS:
+2025-08-20 20:09:05,592 - INFO - ✅ System looks ready! You can confidently start the scheduler.
+2025-08-20 20:09:05,592 - INFO - ✅ Marathon voting is closed as expected. Scheduler will wait for it to open.
+2025-08-20 20:09:05,592 - INFO - ============================================================

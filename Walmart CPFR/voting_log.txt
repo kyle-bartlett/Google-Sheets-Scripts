@@ -1,0 +1,1656 @@
+2025-08-20 20:10:31,034 - INFO - 🧠 STARTING SMART VOTING SCHEDULER
+2025-08-20 20:10:31,034 - INFO - ============================================================
+2025-08-20 20:10:31,034 - INFO - 📅 Monitoring period: 14 days
+2025-08-20 20:10:31,034 - INFO - ⏰ Voting interval: 24 hours
+2025-08-20 20:10:31,034 - INFO - 🎯 Target URL: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-20 20:10:31,034 - INFO - 📧 Email: krbartle@gmail.com
+2025-08-20 20:10:31,034 - INFO - 🏁 End date: 2025-09-03 20:10:31.034135
+2025-08-20 20:10:31,034 - INFO - ============================================================
+2025-08-20 20:10:31,034 - INFO - 🔍 Performing initial voting status check...
+2025-08-20 20:10:31,034 - INFO - 🔍 Checking if Marathon voting is open...
+2025-08-20 20:10:32,309 - INFO - Using system Chrome driver
+2025-08-20 20:10:32,312 - INFO - WebDriver initialized successfully
+2025-08-20 20:10:38,726 - INFO - 📊 Marathon page state: closed
+2025-08-20 20:10:38,765 - INFO - 📝 Found 0/4 target categories
+2025-08-20 20:10:38,765 - INFO - ⏳ Voting still closed. Will check again later.
+2025-08-20 20:10:38,847 - INFO - ⏳ Voting not yet open. Starting monitoring mode.
+2025-08-20 20:10:38,847 - INFO - 🔍 Will check every 4 hours for voting availability.
+2025-08-20 20:10:38,847 - INFO - 
+🎮 Scheduler is now running! Press Ctrl+C to stop.
+2025-08-20 20:10:38,847 - INFO - 📊 Check the log file 'smart_scheduler_log.txt' for detailed activity.
+2025-08-20 20:18:48,742 - INFO - 🎬 Keys Weekly Voting Automation - DEMO MODE
+2025-08-20 20:18:48,742 - INFO - This will show you exactly what the automation does
+2025-08-20 20:30:19,478 - INFO - 🎬 Keys Weekly Voting Automation - DEMO MODE
+2025-08-20 20:30:19,478 - INFO - This will show you exactly what the automation does
+2025-08-20 20:30:19,478 - INFO - 🎯 Starting demo on Marathon page (your target)
+2025-08-20 20:30:19,478 - INFO - 🎬 STARTING VOTING AUTOMATION DEMO
+2025-08-20 20:30:19,478 - INFO - ==================================================
+2025-08-20 20:30:19,478 - INFO - 👀 Watch the browser window to see the automation in action!
+2025-08-20 20:30:19,478 - INFO - 🎯 This demo shows you exactly what happens during voting
+2025-08-20 20:30:19,478 - INFO - ==================================================
+2025-08-20 20:30:20,898 - INFO - Using system Chrome driver
+2025-08-20 20:30:20,916 - INFO - WebDriver initialized successfully
+2025-08-20 20:30:20,916 - INFO - 🎬 DEMO MODE: Browser window opened for demonstration
+2025-08-20 20:30:20,916 - INFO - 👀 You can watch the automation work in real-time!
+2025-08-20 20:30:23,918 - INFO - 🔚 DEMO: Closing browser
+2025-08-20 20:30:23,994 - INFO - 
+🎉 Demo complete! This is exactly what your automation does automatically.
+2025-08-20 20:30:23,994 - INFO - 💡 Your smart scheduler is currently monitoring and will start voting when Marathon opens!
+2025-08-20 20:31:49,014 - INFO - 🎬 Keys Weekly Voting Automation - DEMO MODE
+2025-08-20 20:31:49,014 - INFO - This will show you exactly what the automation does
+2025-08-20 20:31:49,015 - INFO - 🏝️ Starting demo on Key West page (active voting)
+2025-08-20 20:31:49,015 - INFO - 🎬 STARTING VOTING AUTOMATION DEMO
+2025-08-20 20:31:49,015 - INFO - ==================================================
+2025-08-20 20:31:49,015 - INFO - 👀 Watch the browser window to see the automation in action!
+2025-08-20 20:31:49,015 - INFO - 🎯 This demo shows you exactly what happens during voting
+2025-08-20 20:31:49,015 - INFO - ==================================================
+2025-08-20 20:31:50,338 - INFO - Using system Chrome driver
+2025-08-20 20:31:50,344 - INFO - WebDriver initialized successfully
+2025-08-20 20:31:50,344 - INFO - 🎬 DEMO MODE: Browser window opened for demonstration
+2025-08-20 20:31:50,344 - INFO - 👀 You can watch the automation work in real-time!
+2025-08-20 20:31:53,344 - INFO - 🔚 DEMO: Closing browser
+2025-08-20 20:31:53,422 - INFO - 
+🎉 Demo complete! This is exactly what your automation does automatically.
+2025-08-20 20:31:53,422 - INFO - 💡 Your smart scheduler is currently monitoring and will start voting when Marathon opens!
+2025-08-20 20:39:57,764 - INFO - 
+==================================================
+2025-08-20 20:39:57,765 - INFO - 📊 SMART SCHEDULER STATUS REPORT
+2025-08-20 20:39:57,765 - INFO - ==================================================
+2025-08-20 20:39:57,765 - INFO - 🕐 Current time: 2025-08-20 20:39:57.764839
+2025-08-20 20:39:57,765 - INFO - 🎯 Voting started: False
+2025-08-20 20:39:57,765 - INFO - 🗳️ Votes attempted: 0
+2025-08-20 20:39:57,765 - INFO - ⏰ Days remaining: 13
+2025-08-20 20:39:57,765 - INFO - 🔍 Last check: None
+2025-08-20 20:39:57,765 - INFO - ==================================================
+2025-08-20 21:13:39,580 - INFO - 🎯 MARATHON READINESS TEST
+2025-08-20 21:13:39,580 - INFO - ==================================================
+2025-08-20 21:13:39,580 - INFO - Testing the ACTUAL voting logic on YOUR Marathon page
+2025-08-20 21:13:39,580 - INFO - This shows exactly what will happen when voting opens
+2025-08-20 21:13:39,581 - INFO - ==================================================
+2025-08-20 21:13:39,581 - INFO - 🚀 Setting up browser...
+2025-08-20 21:13:40,844 - INFO - Using system Chrome driver
+2025-08-20 21:13:40,865 - INFO - WebDriver initialized successfully
+2025-08-20 21:13:40,865 - INFO - 🌐 Navigating to YOUR Marathon page...
+2025-08-20 21:13:46,981 - INFO - 📄 Page title: Best of Marathon 2025 - Florida Keys Weekly Newspapers
+2025-08-20 21:13:46,981 - INFO - 🧠 Testing smart page state detection...
+2025-08-20 21:13:47,007 - INFO - 🎯 Page state detected: closed
+2025-08-20 21:13:47,007 - INFO - ✅ CORRECT: Detected voting is closed
+2025-08-20 21:13:47,007 - INFO - 💡 When voting opens, this will change to 'voting' state
+2025-08-20 21:13:47,007 - INFO - 📜 Testing scrolling and category detection...
+2025-08-20 21:13:47,007 - INFO - Scrolling to find voting categories...
+2025-08-20 21:13:49,036 - INFO - Found 4 potential voting inputs after 1 scrolls
+2025-08-20 21:13:49,036 - INFO - ✅ Found voting elements!
+2025-08-20 21:13:49,036 - INFO - 🔍 Testing search for YOUR specific categories...
+2025-08-20 21:13:49,037 - INFO - 🔍 Looking for 'Realtor' category...
+2025-08-20 21:13:49,050 - INFO - ⏳ 'Realtor' not found (will appear when voting opens)
+2025-08-20 21:13:49,050 - INFO - 🔍 Looking for 'Real Estate office' category...
+2025-08-20 21:13:49,060 - INFO - ⏳ 'Real Estate office' not found (will appear when voting opens)
+2025-08-20 21:13:49,060 - INFO - 🔍 Looking for 'Vacation Rental Company' category...
+2025-08-20 21:13:49,069 - INFO - ⏳ 'Vacation Rental Company' not found (will appear when voting opens)
+2025-08-20 21:13:49,069 - INFO - 🔍 Looking for 'Best Business' category...
+2025-08-20 21:13:49,078 - INFO - ⏳ 'Best Business' not found (will appear when voting opens)
+2025-08-20 21:13:49,078 - INFO - 📝 Testing form detection...
+2025-08-20 21:13:49,088 - INFO - 📊 Found 4 forms and 4 text inputs
+2025-08-20 21:13:49,088 - INFO - ✅ Text inputs detected - voting forms may be present!
+2025-08-20 21:13:49,088 - INFO - 
+🎯 READINESS SUMMARY:
+2025-08-20 21:13:49,088 - INFO - ==============================
+2025-08-20 21:13:49,088 - INFO - ✅ System correctly detects Marathon voting is closed
+2025-08-20 21:13:49,088 - INFO - ✅ Will automatically detect when voting opens
+2025-08-20 21:13:49,088 - INFO - ✅ Your categories are configured and ready
+2025-08-20 21:13:49,088 - INFO - ✅ Form detection logic is working
+2025-08-20 21:13:49,088 - INFO - 🚀 READY: Will start voting automatically when Marathon opens!
+2025-08-20 21:13:49,088 - INFO - 
+⏸️ Keeping browser open for 15 seconds for you to explore...
+2025-08-20 21:14:04,192 - INFO - 🔚 Test browser closed
+2025-08-21 00:10:39,876 - INFO - 👀 MONITORING CHECK - Looking for voting availability...
+2025-08-21 00:10:39,881 - INFO - 🔍 Checking if Marathon voting is open...
+2025-08-21 00:10:41,684 - INFO - Using system Chrome driver
+2025-08-21 00:10:41,689 - INFO - WebDriver initialized successfully
+2025-08-21 00:10:47,062 - INFO - 📊 Marathon page state: closed
+2025-08-21 00:10:47,099 - INFO - 📝 Found 0/4 target categories
+2025-08-21 00:10:47,099 - INFO - ⏳ Voting still closed. Will check again later.
+2025-08-21 00:10:47,186 - INFO - 😴 Voting not ready yet. Will check again in 4 hours.
+2025-08-21 05:04:16,857 - INFO - 👀 MONITORING CHECK - Looking for voting availability...
+2025-08-21 05:04:16,861 - INFO - 🔍 Checking if Marathon voting is open...
+2025-08-21 05:04:18,478 - INFO - Using system Chrome driver
+2025-08-21 05:04:18,483 - INFO - WebDriver initialized successfully
+2025-08-21 05:04:24,613 - INFO - 📊 Marathon page state: closed
+2025-08-21 05:04:24,650 - INFO - 📝 Found 0/4 target categories
+2025-08-21 05:04:24,650 - INFO - ⏳ Voting still closed. Will check again later.
+2025-08-21 05:04:24,736 - INFO - 😴 Voting not ready yet. Will check again in 4 hours.
+2025-08-22 19:22:41,987 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:22:43,890 - INFO - Using system Chrome driver
+2025-08-22 19:22:43,897 - INFO - WebDriver initialized successfully
+2025-08-22 19:22:43,897 - INFO - 🚀 Starting NEW voting workflow...
+2025-08-22 19:22:43,897 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:22:50,059 - INFO - === STEP 1: Expanding 'The Businesses' dropdown ===
+2025-08-22 19:22:50,060 - INFO - STEP 1: Looking for 'The Businesses' dropdown to expand...
+2025-08-22 19:22:52,117 - ERROR - Could not find 'The Businesses' dropdown!
+2025-08-22 19:22:52,117 - ERROR - Failed to expand 'The Businesses' dropdown
+2025-08-22 19:22:52,201 - INFO - WebDriver closed
+2025-08-22 19:22:52,201 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:23:19,753 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:23:20,852 - INFO - Using system Chrome driver
+2025-08-22 19:23:20,855 - INFO - WebDriver initialized successfully
+2025-08-22 19:23:20,855 - INFO - 🚀 Starting NEW voting workflow...
+2025-08-22 19:23:20,855 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:23:27,139 - INFO - === STEP 1: Expanding 'The Businesses' dropdown ===
+2025-08-22 19:23:27,139 - INFO - STEP 1: Looking for 'The Businesses' dropdown to expand...
+2025-08-22 19:23:30,158 - INFO - Page title: Best of Marathon 2025 - Florida Keys Weekly Newspapers
+2025-08-22 19:23:30,201 - INFO - Found 1075 elements on left side of page
+2025-08-22 19:23:30,212 - INFO - Found 9 elements containing 'business'
+2025-08-22 19:23:30,226 - INFO - Business text 1: '' at x=-1180
+2025-08-22 19:23:30,233 - INFO - Business text 2: '' at x=-1180
+2025-08-22 19:23:30,240 - INFO - Business text 3: '' at x=-1180
+2025-08-22 19:23:30,291 - ERROR - Could not find 'The Businesses' dropdown!
+2025-08-22 19:23:30,291 - ERROR - Failed to expand 'The Businesses' dropdown
+2025-08-22 19:23:30,377 - INFO - WebDriver closed
+2025-08-22 19:23:30,377 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:23:52,441 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:23:53,589 - INFO - Using system Chrome driver
+2025-08-22 19:23:53,593 - INFO - WebDriver initialized successfully
+2025-08-22 19:23:53,593 - INFO - 🚀 Starting NEW voting workflow...
+2025-08-22 19:23:53,593 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:23:59,421 - INFO - === STEP 1: Expanding 'The Businesses' dropdown ===
+2025-08-22 19:23:59,421 - INFO - STEP 1: Looking for 'The Businesses' dropdown to expand...
+2025-08-22 19:24:04,439 - INFO - Page title: Best of Marathon 2025 - Florida Keys Weekly Newspapers
+2025-08-22 19:24:04,440 - INFO - Current URL: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:24:07,654 - INFO - Found 40 visible left sidebar texts
+2025-08-22 19:24:07,654 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=0
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Contact' at x=66
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Who We Are' at x=124
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Home Delivery' at x=206
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Legal Notices' at x=301
+2025-08-22 19:24:07,655 - INFO - Sidebar text: 'Careers' at x=387
+2025-08-22 19:24:07,655 - INFO - Found 0 elements with 'business': []
+2025-08-22 19:24:07,701 - ERROR - Could not find 'The Businesses' dropdown!
+2025-08-22 19:24:07,701 - ERROR - Failed to expand 'The Businesses' dropdown
+2025-08-22 19:24:07,791 - INFO - WebDriver closed
+2025-08-22 19:24:07,792 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:24:37,257 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:24:38,381 - INFO - Using system Chrome driver
+2025-08-22 19:24:38,386 - INFO - WebDriver initialized successfully
+2025-08-22 19:24:38,386 - INFO - 🚀 Starting NEW voting workflow...
+2025-08-22 19:24:38,386 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:24:44,330 - INFO - === STEP 1: Expanding 'The Businesses' dropdown ===
+2025-08-22 19:24:44,330 - INFO - STEP 1: Looking for 'The Businesses' dropdown to expand...
+2025-08-22 19:24:49,346 - INFO - Page title: Best of Marathon 2025 - Florida Keys Weekly Newspapers
+2025-08-22 19:24:49,346 - INFO - Current URL: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:24:52,368 - INFO - Found 40 visible left sidebar texts
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=0
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Contact Who We Are Home Delivery Legal Notices Careers' at x=66
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Contact' at x=66
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Who We Are' at x=124
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Home Delivery' at x=206
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Legal Notices' at x=301
+2025-08-22 19:24:52,368 - INFO - Sidebar text: 'Careers' at x=387
+2025-08-22 19:24:52,368 - INFO - Found 0 elements with 'business': []
+2025-08-22 19:24:52,368 - INFO - Scrolling down to look for voting interface...
+2025-08-22 19:24:54,401 - INFO - Scroll 1: Found 2 vote elements, 13 category elements
+2025-08-22 19:24:56,685 - INFO - Found 10 relevant elements:
+2025-08-22 19:24:56,685 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:24:56,685 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:24:56,685 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:24:56,685 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:24:56,685 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:24:58,727 - INFO - Scroll 2: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:01,024 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:01,024 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:01,024 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:01,024 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:01,024 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:01,024 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:03,061 - INFO - Scroll 3: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:05,568 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:05,568 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:05,568 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:05,569 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:05,569 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:05,569 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:07,597 - INFO - Scroll 4: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:09,993 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:09,993 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:09,993 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:09,993 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:09,993 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:09,993 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:12,041 - INFO - Scroll 5: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:14,539 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:14,539 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:14,539 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:14,539 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:14,539 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:14,539 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:16,587 - INFO - Scroll 6: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:18,974 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:18,975 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:18,975 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:18,975 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:18,975 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:18,975 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:21,011 - INFO - Scroll 7: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:23,508 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:23,508 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:23,508 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:23,508 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:23,508 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:23,508 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:25,545 - INFO - Scroll 8: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:27,939 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:27,939 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:27,939 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:27,939 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:27,939 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:27,939 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:29,978 - INFO - Scroll 9: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:32,370 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:32,370 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:32,370 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:32,370 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:32,370 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:32,370 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:34,406 - INFO - Scroll 10: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:36,790 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:36,791 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:36,791 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:36,791 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:36,791 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:36,791 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:38,820 - INFO - Scroll 11: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:41,222 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:41,223 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:41,223 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:41,223 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:41,223 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:41,223 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:43,257 - INFO - Scroll 12: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:45,649 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:45,650 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:45,650 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:45,650 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:45,650 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:45,650 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:47,688 - INFO - Scroll 13: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:50,134 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:50,136 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:50,136 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:50,136 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:50,136 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:50,137 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:52,171 - INFO - Scroll 14: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:54,586 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:54,586 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:54,586 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:54,586 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:54,586 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:54,586 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:56,610 - INFO - Scroll 15: Found 2 vote elements, 13 category elements
+2025-08-22 19:25:59,002 - INFO - Found 10 relevant elements:
+2025-08-22 19:25:59,002 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=0, y=222
+2025-08-22 19:25:59,002 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=222
+2025-08-22 19:25:59,002 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:59,002 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=42, y=266
+2025-08-22 19:25:59,002 - INFO -   'Welcome to Best of Marathon!
+Vote daily for your favorites below.
+Thank You to our Sponsors' at x=66, y=276
+2025-08-22 19:25:59,011 - ERROR - Could not find 'The Businesses' dropdown after scrolling!
+2025-08-22 19:25:59,011 - ERROR - Failed to expand 'The Businesses' dropdown
+2025-08-22 19:25:59,136 - INFO - WebDriver closed
+2025-08-22 19:25:59,136 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:26:42,048 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:26:43,186 - INFO - Using system Chrome driver
+2025-08-22 19:26:43,191 - INFO - WebDriver initialized successfully
+2025-08-22 19:26:43,191 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:26:43,191 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:26:49,024 - INFO - Checking for immediate voting access...
+2025-08-22 19:26:49,048 - INFO - Found 2 vote elements on initial load
+2025-08-22 19:26:49,048 - INFO - === Looking for 'Best Realtor' directly ===
+2025-08-22 19:27:29,658 - INFO - === Handling email registration ===
+2025-08-22 19:27:29,659 - INFO - Checking if email registration is required...
+2025-08-22 19:27:29,690 - INFO - No email registration required
+2025-08-22 19:27:29,690 - INFO - === Looking for voting opportunities ===
+2025-08-22 19:27:29,694 - INFO - Found 0 total VOTE buttons
+2025-08-22 19:27:29,694 - INFO - 🎯 VOTING SUMMARY: 0 votes completed
+2025-08-22 19:27:29,694 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:27:29,785 - INFO - WebDriver closed
+2025-08-22 19:27:29,785 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:31:46,191 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:31:47,326 - INFO - Using system Chrome driver
+2025-08-22 19:31:47,333 - INFO - WebDriver initialized successfully
+2025-08-22 19:31:47,333 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:31:47,333 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:31:54,373 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:31:54,386 - INFO - Found 5 iframes on page
+2025-08-22 19:31:54,393 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:31:54,394 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:31:57,410 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:31:57,411 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:31:57,422 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:31:57,423 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:31:57,449 - WARNING - Could not find 'The Businesses' dropdown - trying to find 'Best Realtor' directly
+2025-08-22 19:31:57,450 - INFO - === STEP 2: Looking for 'Best Realtor' link ===
+2025-08-22 19:32:17,757 - INFO - === Handling email registration ===
+2025-08-22 19:32:17,757 - INFO - Checking if email registration is required...
+2025-08-22 19:32:17,775 - INFO - No email registration required
+2025-08-22 19:32:17,775 - INFO - === Looking for voting opportunities ===
+2025-08-22 19:32:17,778 - INFO - Found 0 total VOTE buttons
+2025-08-22 19:32:17,778 - INFO - 🎯 VOTING SUMMARY: 0 votes completed
+2025-08-22 19:32:17,779 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:32:17,871 - INFO - WebDriver closed
+2025-08-22 19:32:17,871 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:34:45,129 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:34:46,257 - INFO - Using system Chrome driver
+2025-08-22 19:34:46,260 - INFO - WebDriver initialized successfully
+2025-08-22 19:34:46,261 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:34:46,261 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:34:53,519 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:34:53,537 - INFO - Found 5 iframes on page
+2025-08-22 19:34:53,550 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:34:53,550 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:34:56,568 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:35:02,972 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:35:02,974 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:35:02,990 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:35:02,990 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:35:03,019 - INFO - Found 'The Businesses' element: 'The Businesses'
+2025-08-22 19:35:04,159 - INFO - Found 'The Businesses' element: 'The Businesses'
+2025-08-22 19:35:05,243 - INFO - Found 'The Businesses' element: 'The Businesses'
+2025-08-22 19:35:06,314 - WARNING - Could not find 'The Businesses' dropdown - trying to find 'Best Realtor' directly
+2025-08-22 19:35:06,314 - INFO - === STEP 2: Looking for 'Best Realtor' link ===
+2025-08-22 19:35:26,692 - INFO - === Handling email registration ===
+2025-08-22 19:35:26,692 - INFO - Checking if email registration is required...
+2025-08-22 19:35:26,716 - INFO - No email registration required
+2025-08-22 19:35:26,716 - INFO - === Looking for voting opportunities ===
+2025-08-22 19:35:26,719 - INFO - Found 0 total VOTE buttons
+2025-08-22 19:35:26,719 - INFO - 🎯 VOTING SUMMARY: 0 votes completed
+2025-08-22 19:35:26,719 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:35:26,813 - INFO - WebDriver closed
+2025-08-22 19:35:26,813 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:35:49,297 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:35:50,429 - INFO - Using system Chrome driver
+2025-08-22 19:35:50,432 - INFO - WebDriver initialized successfully
+2025-08-22 19:35:50,432 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:35:50,432 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:35:57,225 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:35:57,243 - INFO - Found 5 iframes on page
+2025-08-22 19:35:57,255 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:35:57,255 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:36:00,274 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:36:06,654 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:36:06,656 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:36:06,672 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:36:06,672 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:36:06,708 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:36:08,809 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x000000010533cc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000105334b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000104e7d0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000104eca1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000104ec8714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000104ec6528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000104ec5924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000104eba458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000104eb9ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000104f0599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000104eb8934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x00000001052ff88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000105302ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x00000001052e0510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000105303360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x00000001052d1610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000105323230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001053233bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010533476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:36:11,845 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:36:11,846 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:36:13,868 - INFO - Found 3 category elements after expansion
+2025-08-22 19:36:13,888 - INFO - === STEP 2: Looking for 'Best Realtor' link ===
+2025-08-22 19:36:34,312 - INFO - === Handling email registration ===
+2025-08-22 19:36:34,312 - INFO - Checking if email registration is required...
+2025-08-22 19:36:34,336 - INFO - No email registration required
+2025-08-22 19:36:34,336 - INFO - === Looking for voting opportunities ===
+2025-08-22 19:36:34,339 - INFO - Found 0 total VOTE buttons
+2025-08-22 19:36:34,339 - INFO - 🎯 VOTING SUMMARY: 0 votes completed
+2025-08-22 19:36:34,339 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:36:34,433 - INFO - WebDriver closed
+2025-08-22 19:36:34,433 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:36:56,560 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:36:57,674 - INFO - Using system Chrome driver
+2025-08-22 19:36:57,678 - INFO - WebDriver initialized successfully
+2025-08-22 19:36:57,679 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:36:57,679 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:37:04,358 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:37:04,375 - INFO - Found 5 iframes on page
+2025-08-22 19:37:04,385 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:37:04,385 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:37:07,403 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:37:13,688 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:37:13,689 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:37:13,704 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:37:13,704 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:37:13,740 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:37:15,830 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000102ee0c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000102ed8b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000102a210c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102a6e1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000102a6c714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000102a6a528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000102a69924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102a5e458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102a5dee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000102aa999c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102a5c934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x0000000102ea388c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000102ea6ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000102e84510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000102ea7360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000102e75610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000102ec7230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x0000000102ec73bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x0000000102ed876c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:37:18,864 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:37:18,865 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:37:20,884 - INFO - Found 3 category elements after expansion
+2025-08-22 19:37:20,904 - INFO - Checking for all new clickable elements after expansion...
+2025-08-22 19:37:21,906 - INFO - Found 73 relevant clickable elements after expansion:
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Resort/Hotel' at (120, 594)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Law Firm' at (120, 628)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Gifts & Threads' at (120, 662)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Fishing Guide' at (120, 697)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Fishing Charter' at (120, 731)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Dive Shop' at (120, 765)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Bait & Tackle Shop' at (120, 799)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Customer Service' at (120, 833)
+2025-08-22 19:37:21,906 - INFO -   a: 'Best Medical Professional' at (120, 868)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Health and Wellness Service' at (120, 902)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Landscape Company' at (120, 936)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Auto Repair' at (120, 970)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Car Wash/Detailing' at (120, 1004)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Marine Repair' at (120, 1039)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Photographer' at (120, 1073)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Marina' at (120, 1107)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Marine Detailing' at (120, 1141)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (120, 1175)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Vet' at (120, 1210)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Pet Service' at (120, 1244)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Realtor' at (120, 1278)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Real Estate Office' at (120, 1312)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Bank' at (120, 1346)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Vacation Rental Company' at (120, 1380)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best General Contractor' at (120, 1415)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Specialty Contractor' at (120, 1449)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Pool Service' at (120, 1483)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Salon' at (120, 1517)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Day Care' at (120, 1551)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Family Owned Business' at (120, 1586)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best New Business' at (120, 1620)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Business' at (120, 1654)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Resort/Hotel' at (476, 467)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 530)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 591)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 653)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Law Firm' at (476, 736)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 798)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 860)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 921)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Gifts & Threads' at (476, 1004)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 1067)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 1128)
+2025-08-22 19:37:21,907 - INFO -   button: 'VOTE' at (975, 1189)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Fishing Guide' at (476, 1272)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Fishing Charter' at (476, 1528)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Dive Shop' at (476, 1888)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Bait & Tackle Shop' at (476, 2247)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Customer Service' at (476, 2607)
+2025-08-22 19:37:21,907 - INFO -   a: 'Best Medical Professional' at (476, 2966)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Health and Wellness Service' at (476, 3326)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Landscape Company' at (476, 3616)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Auto Repair' at (476, 3941)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Car Wash/Detailing' at (476, 4301)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Marine Repair' at (476, 4557)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Photographer' at (476, 4847)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Marina' at (476, 5138)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Marine Detailing' at (476, 5429)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (476, 5685)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Vet' at (476, 6044)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Pet Service' at (476, 6300)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Realtor' at (476, 6625)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Real Estate Office' at (476, 6950)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Bank' at (476, 7310)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Vacation Rental Company' at (476, 7669)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best General Contractor' at (476, 8029)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Specialty Contractor' at (476, 8388)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Pool Service' at (476, 8713)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Salon' at (476, 9038)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Day Care' at (476, 9409)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Family Owned Business' at (476, 9700)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best New Business' at (476, 10059)
+2025-08-22 19:37:21,908 - INFO -   a: 'Best Business' at (476, 10350)
+2025-08-22 19:37:21,908 - INFO - === STEP 2: Looking for 'Best Realtor' link ===
+2025-08-22 19:37:42,312 - INFO - === Handling email registration ===
+2025-08-22 19:37:42,313 - INFO - Checking if email registration is required...
+2025-08-22 19:37:42,336 - INFO - No email registration required
+2025-08-22 19:37:42,336 - INFO - === Looking for voting opportunities ===
+2025-08-22 19:37:42,340 - INFO - Found 0 total VOTE buttons
+2025-08-22 19:37:42,340 - INFO - 🎯 VOTING SUMMARY: 0 votes completed
+2025-08-22 19:37:42,340 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:37:42,432 - INFO - WebDriver closed
+2025-08-22 19:37:42,432 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:38:37,328 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:38:38,421 - INFO - Using system Chrome driver
+2025-08-22 19:38:38,428 - INFO - WebDriver initialized successfully
+2025-08-22 19:38:38,428 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:38:38,428 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:38:45,166 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:38:45,181 - INFO - Found 5 iframes on page
+2025-08-22 19:38:45,191 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:38:45,191 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:38:48,206 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:38:54,409 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:38:54,409 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:38:54,422 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:38:54,423 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:38:54,457 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:38:56,548 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000104564c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010455cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001040a50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001040f21a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x00000001040f0714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x00000001040ee528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x00000001040ed924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x00000001040e2458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x00000001040e1ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010412d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x00000001040e0934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010452788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010452aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000104508510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010452b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x00000001044f9610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010454b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010454b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010455c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:38:59,583 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:38:59,584 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:39:01,602 - INFO - Found 3 category elements after expansion
+2025-08-22 19:39:01,621 - INFO - Checking for all new clickable elements after expansion...
+2025-08-22 19:39:02,602 - INFO - Found 73 relevant clickable elements after expansion:
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Resort/Hotel' at (120, 594)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Law Firm' at (120, 628)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Gifts & Threads' at (120, 662)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Fishing Guide' at (120, 697)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Fishing Charter' at (120, 731)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Dive Shop' at (120, 765)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Bait & Tackle Shop' at (120, 799)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Customer Service' at (120, 833)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Medical Professional' at (120, 868)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Health and Wellness Service' at (120, 902)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Landscape Company' at (120, 936)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Auto Repair' at (120, 970)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Car Wash/Detailing' at (120, 1004)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Marine Repair' at (120, 1039)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Photographer' at (120, 1073)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Marina' at (120, 1107)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Marine Detailing' at (120, 1141)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (120, 1175)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Vet' at (120, 1210)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Pet Service' at (120, 1244)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Realtor' at (120, 1278)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Real Estate Office' at (120, 1312)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Bank' at (120, 1346)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Vacation Rental Company' at (120, 1380)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best General Contractor' at (120, 1415)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Specialty Contractor' at (120, 1449)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Pool Service' at (120, 1483)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Salon' at (120, 1517)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Day Care' at (120, 1551)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Family Owned Business' at (120, 1586)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best New Business' at (120, 1620)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Business' at (120, 1654)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Resort/Hotel' at (476, 467)
+2025-08-22 19:39:02,603 - INFO -   button: 'VOTE' at (975, 530)
+2025-08-22 19:39:02,603 - INFO -   button: 'VOTE' at (975, 591)
+2025-08-22 19:39:02,603 - INFO -   button: 'VOTE' at (975, 653)
+2025-08-22 19:39:02,603 - INFO -   a: 'Best Law Firm' at (476, 736)
+2025-08-22 19:39:02,603 - INFO -   button: 'VOTE' at (975, 798)
+2025-08-22 19:39:02,603 - INFO -   button: 'VOTE' at (975, 860)
+2025-08-22 19:39:02,603 - INFO -   button: 'VOTE' at (975, 921)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Gifts & Threads' at (476, 1004)
+2025-08-22 19:39:02,604 - INFO -   button: 'VOTE' at (975, 1067)
+2025-08-22 19:39:02,604 - INFO -   button: 'VOTE' at (975, 1128)
+2025-08-22 19:39:02,604 - INFO -   button: 'VOTE' at (975, 1189)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Fishing Guide' at (476, 1272)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Fishing Charter' at (476, 1528)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Dive Shop' at (476, 1888)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Bait & Tackle Shop' at (476, 2247)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Customer Service' at (476, 2607)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Medical Professional' at (476, 2966)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Health and Wellness Service' at (476, 3326)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Landscape Company' at (476, 3616)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Auto Repair' at (476, 3941)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Car Wash/Detailing' at (476, 4301)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Marine Repair' at (476, 4557)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Photographer' at (476, 4847)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Marina' at (476, 5138)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Marine Detailing' at (476, 5429)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (476, 5685)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Vet' at (476, 6044)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Pet Service' at (476, 6300)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Realtor' at (476, 6625)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Real Estate Office' at (476, 6950)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Bank' at (476, 7310)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Vacation Rental Company' at (476, 7669)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best General Contractor' at (476, 8029)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Specialty Contractor' at (476, 8388)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Pool Service' at (476, 8713)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Salon' at (476, 9038)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Day Care' at (476, 9409)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Family Owned Business' at (476, 9700)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best New Business' at (476, 10059)
+2025-08-22 19:39:02,604 - INFO -   a: 'Best Business' at (476, 10350)
+2025-08-22 19:39:02,604 - INFO - === STEP 2: Voting in all 4 categories ===
+2025-08-22 19:39:02,604 - INFO - Looking for 'Best Realtor' to vote for 'Nate Bartlett'...
+2025-08-22 19:39:02,620 - WARNING - Could not find 'Best Realtor' link
+2025-08-22 19:39:02,620 - INFO - Looking for 'Best Real Estate Office' to vote for 'Berkshire Hathaway Keys Real Estate 9141 Overseas'...
+2025-08-22 19:39:02,636 - WARNING - Could not find 'Best Real Estate Office' link
+2025-08-22 19:39:02,636 - INFO - Looking for 'Best Vacation Rental Company' to vote for 'Berkshire Keys Vacation Rentals'...
+2025-08-22 19:39:02,652 - WARNING - Could not find 'Best Vacation Rental Company' link
+2025-08-22 19:39:02,652 - INFO - Looking for 'Best Business' to vote for 'Berkshire Hathaway Keys Real Estate 9141 overseas'...
+2025-08-22 19:39:02,668 - WARNING - Could not find 'Best Business' link
+2025-08-22 19:39:02,668 - INFO - 🎯 VOTING SUMMARY: 0/4 votes completed
+2025-08-22 19:39:02,668 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:39:02,769 - INFO - WebDriver closed
+2025-08-22 19:39:02,770 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:39:27,766 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:39:28,822 - INFO - Using system Chrome driver
+2025-08-22 19:39:28,828 - INFO - WebDriver initialized successfully
+2025-08-22 19:39:28,828 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:39:28,828 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:39:35,744 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:39:35,760 - INFO - Found 5 iframes on page
+2025-08-22 19:39:35,771 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:39:35,772 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:39:38,791 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:39:44,941 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:39:44,942 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:39:44,959 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:39:44,959 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:39:44,993 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:39:47,062 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x00000001005ecc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x00000001005e4b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x000000010012d0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x000000010017a1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100178714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000100176528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000100175924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x000000010016a458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100169ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x00000001001b599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100168934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x00000001005af88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x00000001005b2ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100590510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x00000001005b3360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100581610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x00000001005d3230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001005d33bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x00000001005e476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:39:50,103 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:39:50,103 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:39:52,120 - INFO - Found 3 category elements after expansion
+2025-08-22 19:39:52,139 - INFO - Checking for all new clickable elements after expansion...
+2025-08-22 19:39:53,124 - INFO - Found 73 relevant clickable elements after expansion:
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Resort/Hotel' at (120, 594)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Law Firm' at (120, 628)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Gifts & Threads' at (120, 662)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Fishing Guide' at (120, 697)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Fishing Charter' at (120, 731)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Dive Shop' at (120, 765)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Bait & Tackle Shop' at (120, 799)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Customer Service' at (120, 833)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Medical Professional' at (120, 868)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Health and Wellness Service' at (120, 902)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Landscape Company' at (120, 936)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Auto Repair' at (120, 970)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Car Wash/Detailing' at (120, 1004)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Marine Repair' at (120, 1039)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Photographer' at (120, 1073)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Marina' at (120, 1107)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Marine Detailing' at (120, 1141)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (120, 1175)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Vet' at (120, 1210)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Pet Service' at (120, 1244)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Realtor' at (120, 1278)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Real Estate Office' at (120, 1312)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Bank' at (120, 1346)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Vacation Rental Company' at (120, 1380)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best General Contractor' at (120, 1415)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Specialty Contractor' at (120, 1449)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Pool Service' at (120, 1483)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Salon' at (120, 1517)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Day Care' at (120, 1551)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best Family Owned Business' at (120, 1586)
+2025-08-22 19:39:53,124 - INFO -   a: 'Best New Business' at (120, 1620)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Business' at (120, 1654)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Resort/Hotel' at (476, 467)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 530)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 591)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 653)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Law Firm' at (476, 736)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 798)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 860)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 921)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Gifts & Threads' at (476, 1004)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 1067)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 1128)
+2025-08-22 19:39:53,125 - INFO -   button: 'VOTE' at (975, 1189)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Fishing Guide' at (476, 1272)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Fishing Charter' at (476, 1528)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Dive Shop' at (476, 1888)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Bait & Tackle Shop' at (476, 2247)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Customer Service' at (476, 2607)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Medical Professional' at (476, 2966)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Health and Wellness Service' at (476, 3326)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Landscape Company' at (476, 3616)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Auto Repair' at (476, 3941)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Car Wash/Detailing' at (476, 4301)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Marine Repair' at (476, 4557)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Photographer' at (476, 4847)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Marina' at (476, 5138)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Marine Detailing' at (476, 5429)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (476, 5685)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Vet' at (476, 6044)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Pet Service' at (476, 6300)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Realtor' at (476, 6625)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Real Estate Office' at (476, 6950)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Bank' at (476, 7310)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Vacation Rental Company' at (476, 7669)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best General Contractor' at (476, 8029)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Specialty Contractor' at (476, 8388)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Pool Service' at (476, 8713)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Salon' at (476, 9038)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Day Care' at (476, 9409)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best Family Owned Business' at (476, 9700)
+2025-08-22 19:39:53,125 - INFO -   a: 'Best New Business' at (476, 10059)
+2025-08-22 19:39:53,126 - INFO -   a: 'Best Business' at (476, 10350)
+2025-08-22 19:39:53,126 - INFO - === STEP 2: Voting in all 4 categories ===
+2025-08-22 19:39:53,126 - INFO - Looking for 'Best Realtor' to vote for 'Nate Bartlett'...
+2025-08-22 19:39:53,400 - INFO - Found 'Best Realtor' link at (120, 1278)
+2025-08-22 19:39:56,041 - WARNING - Could not find 'Best Realtor' link
+2025-08-22 19:39:56,041 - INFO - Looking for 'Best Real Estate Office' to vote for 'Berkshire Hathaway Keys Real Estate 9141 Overseas'...
+2025-08-22 19:39:56,309 - INFO - Found 'Best Real Estate Office' link at (120, 1312)
+2025-08-22 19:39:59,049 - WARNING - Could not find 'Best Real Estate Office' link
+2025-08-22 19:39:59,049 - INFO - Looking for 'Best Vacation Rental Company' to vote for 'Berkshire Keys Vacation Rentals'...
+2025-08-22 19:39:59,336 - INFO - Found 'Best Vacation Rental Company' link at (120, 1380)
+2025-08-22 19:40:02,011 - WARNING - Could not find 'Best Vacation Rental Company' link
+2025-08-22 19:40:02,012 - INFO - Looking for 'Best Business' to vote for 'Berkshire Hathaway Keys Real Estate 9141 overseas'...
+2025-08-22 19:40:02,383 - INFO - Found 'Best Business' link at (120, 1654)
+2025-08-22 19:40:05,042 - WARNING - Could not find 'Best Business' link
+2025-08-22 19:40:05,042 - INFO - 🎯 VOTING SUMMARY: 0/4 votes completed
+2025-08-22 19:40:05,043 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:40:05,138 - INFO - WebDriver closed
+2025-08-22 19:40:05,138 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:40:26,907 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:40:28,042 - INFO - Using system Chrome driver
+2025-08-22 19:40:28,046 - INFO - WebDriver initialized successfully
+2025-08-22 19:40:28,046 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:40:28,047 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:40:34,744 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:40:34,759 - INFO - Found 5 iframes on page
+2025-08-22 19:40:34,770 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:40:34,770 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:40:37,789 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:40:43,780 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:40:43,781 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:40:43,797 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:40:43,797 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:40:43,834 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:40:45,892 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x000000010309cc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000103094b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000102bdd0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102c2a1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000102c28714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000102c26528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000102c25924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102c1a458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102c19ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000102c6599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102c18934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010305f88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000103062ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000103040510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000103063360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000103031610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000103083230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001030833bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010309476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:40:48,938 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:40:48,939 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:40:50,957 - INFO - Found 3 category elements after expansion
+2025-08-22 19:40:50,977 - INFO - Checking for all new clickable elements after expansion...
+2025-08-22 19:40:51,960 - INFO - Found 73 relevant clickable elements after expansion:
+2025-08-22 19:40:51,960 - INFO -   a: 'Best Resort/Hotel' at (120, 594)
+2025-08-22 19:40:51,960 - INFO -   a: 'Best Law Firm' at (120, 628)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Gifts & Threads' at (120, 662)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Fishing Guide' at (120, 697)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Fishing Charter' at (120, 731)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Dive Shop' at (120, 765)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Bait & Tackle Shop' at (120, 799)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Customer Service' at (120, 833)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Medical Professional' at (120, 868)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Health and Wellness Service' at (120, 902)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Landscape Company' at (120, 936)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Auto Repair' at (120, 970)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Car Wash/Detailing' at (120, 1004)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Marine Repair' at (120, 1039)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Photographer' at (120, 1073)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Marina' at (120, 1107)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Marine Detailing' at (120, 1141)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (120, 1175)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Vet' at (120, 1210)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Pet Service' at (120, 1244)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Realtor' at (120, 1278)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Real Estate Office' at (120, 1312)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Bank' at (120, 1346)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Vacation Rental Company' at (120, 1380)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best General Contractor' at (120, 1415)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Specialty Contractor' at (120, 1449)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Pool Service' at (120, 1483)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Salon' at (120, 1517)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Day Care' at (120, 1551)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Family Owned Business' at (120, 1586)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best New Business' at (120, 1620)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Business' at (120, 1654)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Resort/Hotel' at (476, 467)
+2025-08-22 19:40:51,961 - INFO -   button: 'VOTE' at (975, 530)
+2025-08-22 19:40:51,961 - INFO -   button: 'VOTE' at (975, 591)
+2025-08-22 19:40:51,961 - INFO -   button: 'VOTE' at (975, 653)
+2025-08-22 19:40:51,961 - INFO -   a: 'Best Law Firm' at (476, 736)
+2025-08-22 19:40:51,961 - INFO -   button: 'VOTE' at (975, 798)
+2025-08-22 19:40:51,961 - INFO -   button: 'VOTE' at (975, 860)
+2025-08-22 19:40:51,962 - INFO -   button: 'VOTE' at (975, 921)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Gifts & Threads' at (476, 1004)
+2025-08-22 19:40:51,962 - INFO -   button: 'VOTE' at (975, 1067)
+2025-08-22 19:40:51,962 - INFO -   button: 'VOTE' at (975, 1128)
+2025-08-22 19:40:51,962 - INFO -   button: 'VOTE' at (975, 1189)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Fishing Guide' at (476, 1272)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Fishing Charter' at (476, 1528)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Dive Shop' at (476, 1888)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Bait & Tackle Shop' at (476, 2247)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Customer Service' at (476, 2607)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Medical Professional' at (476, 2966)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Health and Wellness Service' at (476, 3326)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Landscape Company' at (476, 3616)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Auto Repair' at (476, 3941)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Car Wash/Detailing' at (476, 4301)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Marine Repair' at (476, 4557)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Photographer' at (476, 4847)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Marina' at (476, 5138)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Marine Detailing' at (476, 5429)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (476, 5685)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Vet' at (476, 6044)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Pet Service' at (476, 6300)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Realtor' at (476, 6625)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Real Estate Office' at (476, 6950)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Bank' at (476, 7310)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Vacation Rental Company' at (476, 7669)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best General Contractor' at (476, 8029)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Specialty Contractor' at (476, 8388)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Pool Service' at (476, 8713)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Salon' at (476, 9038)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Day Care' at (476, 9409)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Family Owned Business' at (476, 9700)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best New Business' at (476, 10059)
+2025-08-22 19:40:51,962 - INFO -   a: 'Best Business' at (476, 10350)
+2025-08-22 19:40:51,962 - INFO - === STEP 2: Voting in all 4 categories ===
+2025-08-22 19:40:51,962 - INFO - Looking for 'Best Realtor' to vote for 'Nate Bartlett'...
+2025-08-22 19:40:52,231 - INFO - Found 'Best Realtor' link at (120, 1278)
+2025-08-22 19:40:54,322 - ERROR - Failed to click 'Best Realtor' link: Message: element click intercepted: Element <a id="ember47" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 16). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x000000010309cc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000103094b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000102bdd0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102c2a1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000102c28714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000102c26528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000102c25924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102c1a458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102c19ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000102c6599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102c18934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010305f88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000103062ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000103040510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000103063360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000103031610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000103083230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001030833bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010309476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:40:57,346 - INFO - ✅ JavaScript clicked 'Best Realtor' link
+2025-08-22 19:40:57,347 - INFO - Checking if email registration is required...
+2025-08-22 19:40:57,390 - INFO - No email registration required
+2025-08-22 19:40:57,397 - INFO - Found 0 VOTE buttons for 'Best Realtor'
+2025-08-22 19:40:57,397 - WARNING - ❌ Failed to vote in 'Best Realtor'
+2025-08-22 19:40:59,407 - INFO - Looking for 'Best Real Estate Office' to vote for 'Berkshire Hathaway Keys Real Estate 9141 Overseas'...
+2025-08-22 19:40:59,701 - INFO - Found 'Best Real Estate Office' link at (120, 1312)
+2025-08-22 19:41:01,776 - ERROR - Failed to click 'Best Real Estate Office' link: Message: element click intercepted: Element <a id="ember48" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 17). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x000000010309cc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000103094b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000102bdd0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102c2a1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000102c28714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000102c26528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000102c25924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102c1a458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102c19ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000102c6599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102c18934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010305f88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000103062ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000103040510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000103063360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000103031610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000103083230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001030833bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010309476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:41:04,800 - INFO - ✅ JavaScript clicked 'Best Real Estate Office' link
+2025-08-22 19:41:04,801 - INFO - Checking if email registration is required...
+2025-08-22 19:41:04,831 - INFO - No email registration required
+2025-08-22 19:41:04,835 - INFO - Found 0 VOTE buttons for 'Best Real Estate Office'
+2025-08-22 19:41:04,835 - WARNING - ❌ Failed to vote in 'Best Real Estate Office'
+2025-08-22 19:41:06,846 - INFO - Looking for 'Best Vacation Rental Company' to vote for 'Berkshire Keys Vacation Rentals'...
+2025-08-22 19:41:07,164 - INFO - Found 'Best Vacation Rental Company' link at (120, 1380)
+2025-08-22 19:41:09,208 - ERROR - Failed to click 'Best Vacation Rental Company' link: Message: element click intercepted: Element <a id="ember50" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 17). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x000000010309cc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000103094b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000102bdd0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102c2a1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000102c28714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000102c26528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000102c25924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102c1a458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102c19ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000102c6599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102c18934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010305f88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000103062ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000103040510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000103063360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000103031610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000103083230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001030833bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010309476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:41:12,231 - INFO - ✅ JavaScript clicked 'Best Vacation Rental Company' link
+2025-08-22 19:41:12,232 - INFO - Checking if email registration is required...
+2025-08-22 19:41:12,262 - INFO - No email registration required
+2025-08-22 19:41:12,266 - INFO - Found 0 VOTE buttons for 'Best Vacation Rental Company'
+2025-08-22 19:41:12,267 - WARNING - ❌ Failed to vote in 'Best Vacation Rental Company'
+2025-08-22 19:41:14,277 - INFO - Looking for 'Best Business' to vote for 'Berkshire Hathaway Keys Real Estate 9141 overseas'...
+2025-08-22 19:41:14,664 - INFO - Found 'Best Business' link at (120, 1654)
+2025-08-22 19:41:16,765 - ERROR - Failed to click 'Best Business' link: Message: element click intercepted: Element <a id="ember58" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 17). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x000000010309cc20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000103094b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x0000000102bdd0c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102c2a1a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000102c28714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x0000000102c26528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x0000000102c25924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102c1a458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102c19ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x0000000102c6599c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102c18934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010305f88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000103062ab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000103040510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000103063360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000103031610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000103083230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x00000001030833bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010309476c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:41:19,789 - INFO - ✅ JavaScript clicked 'Best Business' link
+2025-08-22 19:41:19,789 - INFO - Checking if email registration is required...
+2025-08-22 19:41:19,819 - INFO - No email registration required
+2025-08-22 19:41:19,824 - INFO - Found 0 VOTE buttons for 'Best Business'
+2025-08-22 19:41:19,824 - WARNING - ❌ Failed to vote in 'Best Business'
+2025-08-22 19:41:21,834 - INFO - 🎯 VOTING SUMMARY: 0/4 votes completed
+2025-08-22 19:41:21,835 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:41:21,941 - INFO - WebDriver closed
+2025-08-22 19:41:21,942 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:41:51,337 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:41:52,458 - INFO - Using system Chrome driver
+2025-08-22 19:41:52,462 - INFO - WebDriver initialized successfully
+2025-08-22 19:41:52,462 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:41:52,462 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:41:59,455 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:41:59,463 - INFO - Found 5 iframes on page
+2025-08-22 19:41:59,469 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:41:59,470 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:42:02,488 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:42:08,774 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:42:08,775 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:42:08,787 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:42:08,787 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:42:08,818 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:42:10,928 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:42:13,973 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:42:13,973 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:42:15,994 - INFO - Found 3 category elements after expansion
+2025-08-22 19:42:16,014 - INFO - Checking for all new clickable elements after expansion...
+2025-08-22 19:42:16,996 - INFO - Found 73 relevant clickable elements after expansion:
+2025-08-22 19:42:16,996 - INFO -   a: 'Best Resort/Hotel' at (120, 594)
+2025-08-22 19:42:16,996 - INFO -   a: 'Best Law Firm' at (120, 628)
+2025-08-22 19:42:16,996 - INFO -   a: 'Best Gifts & Threads' at (120, 662)
+2025-08-22 19:42:16,996 - INFO -   a: 'Best Fishing Guide' at (120, 697)
+2025-08-22 19:42:16,996 - INFO -   a: 'Best Fishing Charter' at (120, 731)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Dive Shop' at (120, 765)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Bait & Tackle Shop' at (120, 799)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Customer Service' at (120, 833)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Medical Professional' at (120, 868)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Health and Wellness Service' at (120, 902)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Landscape Company' at (120, 936)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Auto Repair' at (120, 970)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Car Wash/Detailing' at (120, 1004)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Marine Repair' at (120, 1039)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Photographer' at (120, 1073)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Marina' at (120, 1107)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Marine Detailing' at (120, 1141)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (120, 1175)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Vet' at (120, 1210)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Pet Service' at (120, 1244)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Realtor' at (120, 1278)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Real Estate Office' at (120, 1312)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Bank' at (120, 1346)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Vacation Rental Company' at (120, 1380)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best General Contractor' at (120, 1415)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Specialty Contractor' at (120, 1449)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Pool Service' at (120, 1483)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Salon' at (120, 1517)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Day Care' at (120, 1551)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Family Owned Business' at (120, 1586)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best New Business' at (120, 1620)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Business' at (120, 1654)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Resort/Hotel' at (476, 467)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 530)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 591)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 653)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Law Firm' at (476, 736)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 798)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 860)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 921)
+2025-08-22 19:42:16,997 - INFO -   a: 'Best Gifts & Threads' at (476, 1004)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 1067)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 1128)
+2025-08-22 19:42:16,997 - INFO -   button: 'VOTE' at (975, 1189)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Fishing Guide' at (476, 1272)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Fishing Charter' at (476, 1528)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Dive Shop' at (476, 1888)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Bait & Tackle Shop' at (476, 2247)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Customer Service' at (476, 2607)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Medical Professional' at (476, 2966)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Health and Wellness Service' at (476, 3326)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Landscape Company' at (476, 3616)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Auto Repair' at (476, 3941)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Car Wash/Detailing' at (476, 4301)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Marine Repair' at (476, 4557)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Photographer' at (476, 4847)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Marina' at (476, 5138)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Marine Detailing' at (476, 5429)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Water Sports/Leisure Cruise' at (476, 5685)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Vet' at (476, 6044)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Pet Service' at (476, 6300)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Realtor' at (476, 6625)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Real Estate Office' at (476, 6950)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Bank' at (476, 7310)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Vacation Rental Company' at (476, 7669)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best General Contractor' at (476, 8029)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Specialty Contractor' at (476, 8388)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Pool Service' at (476, 8713)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Salon' at (476, 9038)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Day Care' at (476, 9409)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Family Owned Business' at (476, 9700)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best New Business' at (476, 10059)
+2025-08-22 19:42:16,998 - INFO -   a: 'Best Business' at (476, 10350)
+2025-08-22 19:42:16,998 - INFO - === STEP 2: Voting in all 4 categories ===
+2025-08-22 19:42:16,998 - INFO - Looking for 'Best Realtor' to vote for 'Nate Bartlett'...
+2025-08-22 19:42:17,264 - INFO - Found 'Best Realtor' link at (120, 1278)
+2025-08-22 19:42:19,349 - ERROR - Failed to click 'Best Realtor' link: Message: element click intercepted: Element <a id="ember47" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 16). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:42:22,373 - INFO - ✅ JavaScript clicked 'Best Realtor' link
+2025-08-22 19:42:22,374 - INFO - Checking if email registration is required...
+2025-08-22 19:42:22,406 - INFO - No email registration required
+2025-08-22 19:42:25,417 - INFO - Looking for voting content in 'Best Realtor' page...
+2025-08-22 19:42:35,665 - WARNING - No VOTE buttons found for 'Best Realtor' - checking all buttons...
+2025-08-22 19:42:35,677 - INFO - Found 70 total buttons on page
+2025-08-22 19:42:35,687 - INFO - Button found: 'VOTE'
+2025-08-22 19:42:37,774 - WARNING - Failed to click vote button: Message: element click intercepted: Element <button class="voting-button ssButton ssButtonPrimary mt-1 hover:brightness-110
+        vote-button vote" type="button" data-ember-action="" data-ember-action-66="66">...</button> is not clickable at point (1007, 14). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:42:37,774 - WARNING - ❌ Failed to vote in 'Best Realtor'
+2025-08-22 19:42:39,784 - INFO - Looking for 'Best Real Estate Office' to vote for 'Berkshire Hathaway Keys Real Estate 9141 Overseas'...
+2025-08-22 19:42:40,084 - INFO - Found 'Best Real Estate Office' link at (120, 1312)
+2025-08-22 19:42:42,174 - ERROR - Failed to click 'Best Real Estate Office' link: Message: element click intercepted: Element <a id="ember48" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 17). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:42:45,202 - INFO - ✅ JavaScript clicked 'Best Real Estate Office' link
+2025-08-22 19:42:45,202 - INFO - Checking if email registration is required...
+2025-08-22 19:42:45,233 - INFO - No email registration required
+2025-08-22 19:42:48,244 - INFO - Looking for voting content in 'Best Real Estate Office' page...
+2025-08-22 19:42:58,479 - WARNING - No VOTE buttons found for 'Best Real Estate Office' - checking all buttons...
+2025-08-22 19:42:58,488 - INFO - Found 70 total buttons on page
+2025-08-22 19:42:58,499 - INFO - Button found: 'VOTE'
+2025-08-22 19:43:00,549 - WARNING - Failed to click vote button: Message: element click intercepted: Element <button class="voting-button ssButton ssButtonPrimary mt-1 hover:brightness-110
+        vote-button vote" type="button" data-ember-action="" data-ember-action-66="66">...</button> is not clickable at point (1007, 14). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:43:00,550 - WARNING - ❌ Failed to vote in 'Best Real Estate Office'
+2025-08-22 19:43:02,554 - INFO - Looking for 'Best Vacation Rental Company' to vote for 'Berkshire Keys Vacation Rentals'...
+2025-08-22 19:43:02,861 - INFO - Found 'Best Vacation Rental Company' link at (120, 1380)
+2025-08-22 19:43:04,959 - ERROR - Failed to click 'Best Vacation Rental Company' link: Message: element click intercepted: Element <a id="ember50" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 17). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:43:07,997 - INFO - ✅ JavaScript clicked 'Best Vacation Rental Company' link
+2025-08-22 19:43:07,998 - INFO - Checking if email registration is required...
+2025-08-22 19:43:08,028 - INFO - No email registration required
+2025-08-22 19:43:11,038 - INFO - Looking for voting content in 'Best Vacation Rental Company' page...
+2025-08-22 19:43:21,298 - WARNING - No VOTE buttons found for 'Best Vacation Rental Company' - checking all buttons...
+2025-08-22 19:43:21,313 - INFO - Found 70 total buttons on page
+2025-08-22 19:43:21,329 - INFO - Button found: 'VOTE'
+2025-08-22 19:43:23,421 - WARNING - Failed to click vote button: Message: element click intercepted: Element <button class="voting-button ssButton ssButtonPrimary mt-1 hover:brightness-110
+        vote-button vote" type="button" data-ember-action="" data-ember-action-66="66">...</button> is not clickable at point (1007, 14). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:43:23,422 - WARNING - ❌ Failed to vote in 'Best Vacation Rental Company'
+2025-08-22 19:43:25,425 - INFO - Looking for 'Best Business' to vote for 'Berkshire Hathaway Keys Real Estate 9141 overseas'...
+2025-08-22 19:43:25,812 - INFO - Found 'Best Business' link at (120, 1654)
+2025-08-22 19:43:27,882 - ERROR - Failed to click 'Best Business' link: Message: element click intercepted: Element <a id="ember58" class="ember-view active nested-menu-children--link" href="/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery?group=522962">...</a> is not clickable at point (281, 17). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:43:30,906 - INFO - ✅ JavaScript clicked 'Best Business' link
+2025-08-22 19:43:30,907 - INFO - Checking if email registration is required...
+2025-08-22 19:43:30,935 - INFO - No email registration required
+2025-08-22 19:43:33,945 - INFO - Looking for voting content in 'Best Business' page...
+2025-08-22 19:43:44,207 - WARNING - No VOTE buttons found for 'Best Business' - checking all buttons...
+2025-08-22 19:43:44,221 - INFO - Found 70 total buttons on page
+2025-08-22 19:43:44,235 - INFO - Button found: 'VOTE'
+2025-08-22 19:43:46,330 - WARNING - Failed to click vote button: Message: element click intercepted: Element <button class="voting-button ssButton ssButtonPrimary mt-1 hover:brightness-110
+        vote-button vote" type="button" data-ember-action="" data-ember-action-66="66">...</button> is not clickable at point (1007, 14). Other element would receive the click: <div class="user-info-container">...</div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000100784c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x000000010077cb20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001002c50c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001003121a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x0000000100310714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x000000010030e528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x000000010030d924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000100302458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000100301ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x000000010034d99c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000100300934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x000000010074788c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x000000010074aab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000100728510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x000000010074b360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000100719610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x000000010076b230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x000000010076b3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x000000010077c76c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:43:46,331 - WARNING - ❌ Failed to vote in 'Best Business'
+2025-08-22 19:43:48,341 - INFO - 🎯 VOTING SUMMARY: 0/4 votes completed
+2025-08-22 19:43:48,342 - ERROR - ❌ No votes were successfully cast
+2025-08-22 19:43:48,493 - INFO - WebDriver closed
+2025-08-22 19:43:48,493 - ERROR - === TEST RUN FAILED ===
+2025-08-22 19:44:19,433 - INFO - === STARTING TEST RUN ===
+2025-08-22 19:44:20,562 - INFO - Using system Chrome driver
+2025-08-22 19:44:20,568 - INFO - WebDriver initialized successfully
+2025-08-22 19:44:20,568 - INFO - 🚀 Starting SIMPLIFIED voting workflow...
+2025-08-22 19:44:20,568 - INFO - Navigating to: https://keysweekly.com/bom25/#/gallery/?group=522963
+2025-08-22 19:44:25,916 - INFO - === SWITCHING TO VOTING IFRAME ===
+2025-08-22 19:44:25,940 - INFO - Found 5 iframes on page
+2025-08-22 19:44:25,950 - INFO - iframe 1: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:44:25,950 - INFO - Found SecondStreet voting iframe: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/gallery/?group=522963
+2025-08-22 19:44:28,974 - INFO - Navigating to base SecondStreet URL: https://embed-1109801.secondstreetapp.com/embed/b222ccf1-e1a9-4ac5-8af8-a9f96673db22/
+2025-08-22 19:44:35,166 - INFO - ✅ Successfully switched to voting iframe
+2025-08-22 19:44:35,166 - INFO - Checking for voting content inside iframe...
+2025-08-22 19:44:35,183 - INFO - Found 0 vote elements in iframe
+2025-08-22 19:44:35,183 - INFO - === STEP 1: Looking for 'The Businesses' dropdown (now in iframe) ===
+2025-08-22 19:44:35,221 - INFO - Found 'The Businesses' element: 'The Businesses' (tag: div) at (299, 428)
+2025-08-22 19:44:37,335 - WARNING - Regular click failed: Message: element click intercepted: Element <div class="ballot-group-name">...</div> is not clickable at point (389, 352). Other element would receive the click: <div class="ballot-group-image-overlay"></div>
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000102b18c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000102b10b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001026590c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x00000001026a61a8 cxxbridge1$string$len + 406152
+4   chromedriver                        0x00000001026a4714 cxxbridge1$string$len + 399348
+5   chromedriver                        0x00000001026a2528 cxxbridge1$string$len + 390664
+6   chromedriver                        0x00000001026a1924 cxxbridge1$string$len + 387588
+7   chromedriver                        0x0000000102696458 cxxbridge1$string$len + 341304
+8   chromedriver                        0x0000000102695ee4 cxxbridge1$string$len + 339908
+9   chromedriver                        0x00000001026e199c cxxbridge1$string$len + 649852
+10  chromedriver                        0x0000000102694934 cxxbridge1$string$len + 334356
+11  chromedriver                        0x0000000102adb88c cxxbridge1$str$ptr + 2496880
+12  chromedriver                        0x0000000102adeab8 cxxbridge1$str$ptr + 2509724
+13  chromedriver                        0x0000000102abc510 cxxbridge1$str$ptr + 2369012
+14  chromedriver                        0x0000000102adf360 cxxbridge1$str$ptr + 2511940
+15  chromedriver                        0x0000000102aad610 cxxbridge1$str$ptr + 2307828
+16  chromedriver                        0x0000000102aff230 cxxbridge1$str$ptr + 2642708
+17  chromedriver                        0x0000000102aff3bc cxxbridge1$str$ptr + 2643104
+18  chromedriver                        0x0000000102b1076c cxxbridge1$str$ptr + 2713680
+19  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:44:40,385 - INFO - ✅ Successfully clicked 'The Businesses' with JavaScript click
+2025-08-22 19:44:40,386 - INFO - Checking for expanded categories after clicking 'The Businesses'...
+2025-08-22 19:44:42,453 - ERROR - Voting process failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.139)
+Stacktrace:
+0   chromedriver                        0x0000000102b18c20 cxxbridge1$str$ptr + 2747652
+1   chromedriver                        0x0000000102b10b20 cxxbridge1$str$ptr + 2714628
+2   chromedriver                        0x00000001026590c8 cxxbridge1$string$len + 90536
+3   chromedriver                        0x0000000102642b18 chromedriver + 207640
+4   chromedriver                        0x0000000102665be4 cxxbridge1$string$len + 142532
+5   chromedriver                        0x00000001026c88c0 cxxbridge1$string$len + 547232
+6   chromedriver                        0x00000001026e14fc cxxbridge1$string$len + 648668
+7   chromedriver                        0x0000000102694934 cxxbridge1$string$len + 334356
+8   chromedriver                        0x0000000102adb88c cxxbridge1$str$ptr + 2496880
+9   chromedriver                        0x0000000102adeab8 cxxbridge1$str$ptr + 2509724
+10  chromedriver                        0x0000000102abc510 cxxbridge1$str$ptr + 2369012
+11  chromedriver                        0x0000000102adf360 cxxbridge1$str$ptr + 2511940
+12  chromedriver                        0x0000000102aad610 cxxbridge1$str$ptr + 2307828
+13  chromedriver                        0x0000000102aff230 cxxbridge1$str$ptr + 2642708
+14  chromedriver                        0x0000000102aff3bc cxxbridge1$str$ptr + 2643104
+15  chromedriver                        0x0000000102b1076c cxxbridge1$str$ptr + 2713680
+16  libsystem_pthread.dylib             0x000000018f7a7c0c _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018f7a2b80 thread_start + 8
+
+2025-08-22 19:44:42,508 - INFO - WebDriver closed
+2025-08-22 19:44:42,508 - ERROR - === TEST RUN FAILED ===

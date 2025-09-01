@@ -1,0 +1,12 @@
+{
+    "extends": "google",
+    "plugins": [
+      "googleappsscript"
+    ],
+    "env": {
+      "googleappsscript/googleappsscript": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 2020
+    }
+  }

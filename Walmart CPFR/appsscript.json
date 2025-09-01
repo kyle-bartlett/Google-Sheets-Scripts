@@ -1,0 +1,22 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Highlight Yellow",
+      "functionName": "HighlightYellow",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }, {
+      "menuName": "Highlight Green",
+      "functionName": "HighlightGreen",
+      "defaultShortcut": "Ctrl+Alt+Shift+2"
+    }, {
+      "menuName": "Remove fill color",
+      "functionName": "Removefillcolor",
+      "defaultShortcut": "Ctrl+Alt+Shift+3"
+    }]
+  }
+}

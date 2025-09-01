@@ -1,0 +1,19 @@
+ANKER SUPPLY GAP ANALYSIS DASHBOARD,,,,
+,,,,
+METRIC,VALUE,,,
+Total Gaps,971,FILTERS,,
+Revenue at Risk,"$17,562,047",Quarter,"Q3 2025, Q4 2025",
+Q3 2025 Impact,"$3,874,197",Customer,Customer,
+Q4 2025 Impact,"$13,687,850",PDT,PDT,
+,,,,
+Customer,Revenue Impact,Units,SKUs Affected,% Cum To Total
+BBY,"$3,789,112","118,733",38,22%
+TGT,"$2,944,526","156,666",45,38%
+WM,"$1,152,511","128,121",22,45%
+,,,,
+SKU,Revenue Impact,Units,Customers Affected,% Cum To Total
+A1384H11-1,"$1,295,018","52,563",3,7%
+A1367H11-1,"$957,938","35,545",1,13%
+A1340011,"$843,113","8,161",1,18%
+,,,,
+Gap Units By Week,,,,
